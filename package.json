@@ -1,0 +1,24 @@
+{
+  "name": "Plays-With-Google-Speech",
+  "version": "1.0.0",
+  "description": "Practicing with Google Speech to eventually build out voice activated command library.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hifromkevin/Plays-With-Google-Speech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hifromkevin/Plays-With-Google-Speech/issues"
+  },
+  "homepage": "https://github.com/hifromkevin/Plays-With-Google-Speech#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^3.4.0"
+  }
+}
